@@ -1,4 +1,4 @@
-package com.example.productivity.data
+package data
 
 import com.example.productivity.data.local.dao.TaskDao
 import com.example.productivity.data.local.entity.Task
